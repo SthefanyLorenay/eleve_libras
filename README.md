@@ -1,6 +1,7 @@
 # eleve_libras
 
-Desenvolvido 
+Desenvolvido por Sthefany
+
 A new Flutter project.
 
 ## Getting Started
